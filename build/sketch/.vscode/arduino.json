@@ -1,0 +1,8 @@
+#line 1 "D:\\programy\\Visual Studio Code\\Arduino-PL-Railway-Semaphore\\.vscode\\arduino.json"
+{
+    "sketch": "Arduino-PL-Railway-Semaphore.ino",
+    "output": "build",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "programmer": "arduinoasisp"
+}
